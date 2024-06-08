@@ -29,6 +29,7 @@ Before getting started, make sure you have Node.js and npm installed on your mac
   - Browse Pokemons by searching or Filtering
   - View Stats of the Pokemon
   - User friendly UI
+  - Infinite scrolling
 
 ## Features
    - NextJS
