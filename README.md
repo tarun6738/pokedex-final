@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Movix - Movie and TV Show App
 
-## Getting Started
+Pokedex is a Website where user can search and filter pokemons by type for their favourite pokemons and see their stats.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Photos](#photos)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Before getting started, make sure you have Node.js and npm installed on your machine.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the repository:**
+   git clone [https://github.com/tarun6738/pokedex-final.git]
 
-## Learn More
+2. **Install dependencies:**
+   npm install
+   
+4. **Usage:** 
+  To start the development server, run:
+  npm run dev
+  Visit http://localhost:3000 in your browser to explore Pokedex.
 
-To learn more about Next.js, take a look at the following resources:
+## Features
+  - Browse Pokemons by searching or Filtering
+  - View Stats of the Pokemon
+  - User friendly UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
+   - NextJS
+   - Tailwind CSS
+   - Axios
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Photos
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ![Screenshot 2024-06-08 114332](https://github.com/tarun6738/pokedex-final/assets/118709508/bf7b73e6-9132-46fe-a83b-216f2c56b7da)
+   ![Screenshot 2024-06-08 114347](https://github.com/tarun6738/pokedex-final/assets/118709508/c8ae0cde-d19a-4514-bc2a-10d51ae99434)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+   
